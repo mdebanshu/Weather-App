@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="location">Location</string>
+    <string name="updated_at">Updated at</string>
+    <string name="clear_sky">clear sky</string>
+    <string name="_24_c">24°C</string>
+    <string name="minimum_temperature">Minimum temperature</string>
+    <string name="maximum_temperature">Maximum temperature</string>
+    <string name="_18_30am">18:30am</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+</resources>
